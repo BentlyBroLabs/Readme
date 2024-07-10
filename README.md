@@ -13,8 +13,6 @@ Welcome to BentlyBroLabs, where we are dedicated to pioneering open-source, DIY 
 
 Join us on our journey to create innovative, secure, and community-driven solutions. Together, we can build a future where technology works for everyone, safeguarding privacy and promoting creativity.
 
-I host my own [Code Block](https://cb.bentlybro.com/BentlyBroLabs) which will also contain everything I share here.
-
 Connect with us on [Discord](https://discord.gg/yjjC2J569K) and Checkout the [Project Planning](https://cb.bentlybro.com/BentlyBroLabs/Readme/projects/5) here!
 
 
